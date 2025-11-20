@@ -1,0 +1,17 @@
+Ignore the virtual environment folder
+
+venv/
+env/
+
+Ignore Python cache files
+
+pycache/
+*.pyc
+
+Ignore VS Code settings
+
+.vscode/
+
+Ignore generated instruction files (optional, keep if you want to show them)
+
+instructions_*.txt
