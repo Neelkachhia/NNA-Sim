@@ -38,7 +38,7 @@ NNA_Project/
 
 Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/NNA-Sim.git](https://github.com/YOUR_USERNAME/NNA-Sim.git)
+git clone [https://github.com/Neelkachhia/NNA-Sim.git](https://github.com/Neelkachhia/NNA-Sim.git)
 cd NNA-Sim
 
 
