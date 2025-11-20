@@ -18,8 +18,8 @@ Architectural Sweep: Automatically tests multiple hardware configurations (4x4, 
 
 Visualization: Auto-generates performance and energy trade-off graphs.
 
-📂 Project Structure
-
+## 📂 Project Structure
+```text
 NNA_Project/
 ├── compiler/           # Software Backend
 │   ├── compiler.py     # Tiling and instruction generation logic
@@ -31,6 +31,7 @@ NNA_Project/
 ├── core_operation.py   # Functional baseline (NumPy)
 ├── requirements.txt    # Project dependencies
 └── README.md           # Documentation
+```
 
 
 🛠️ Installation & Usage
