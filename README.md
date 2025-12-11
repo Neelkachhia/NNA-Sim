@@ -70,11 +70,11 @@ The simulation demonstrates the non-linear relationship between hardware area an
 
 Performance Analysis
 
-![Performance Plot](performance_results.png)
+![Performance Plot](assets/performance_results.png)
 
 Energy Efficiency
 
-![Energy Plot](energy_results.png)
+![Energy Plot](assets/energy_results.png)
 
 🔮 Future Work
 
